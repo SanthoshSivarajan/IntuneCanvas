@@ -55,12 +55,12 @@ Install-Module Microsoft.Graph -Scope CurrentUser
 - **Assignment Filters** -- all filters with platform and rules
 
 ### Charts (6)
-- Device Compliance (donut)
-- Device OS Distribution (donut)
-- Device Ownership (donut)
-- Management Type (donut)
-- Policy Count by Type (bar)
-- App Types (bar)
+- Device Compliance
+- Device OS Distribution 
+- Device Ownership 
+- Management Type 
+- Policy Count by Type 
+- App Types 
 
 ## Requirements
 
